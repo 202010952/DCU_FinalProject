@@ -16,7 +16,8 @@ Proyecto final de la asignatura de Diseño Centrado en el Usuario, desarrollado 
 
 ![image](https://user-images.githubusercontent.com/81063587/164955822-4962d44d-4f97-43a4-b731-36a419db7dcc.png)
 
-#Creación de la DB y tablas
+# Creación de la DB y tablas para el proyecto de Security World
+
 create database SecurityWorld
 
 use SecurityWorld
